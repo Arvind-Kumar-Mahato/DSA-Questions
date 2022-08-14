@@ -36,9 +36,9 @@ So total unit consumed would be 170. See calculation below.
 Charges for 170 units :-
 
 Fixed Charge :- 80
-Charges for first 50 units :- 50 * 3 = 150
-Charges of next 100 units :- 100 * 5 = 500
-Charges of next 20 units :- 20 * 10 = 200
+Charges for first 50 units :- 50 * 3 = 150.
+Charges of next 100 units :- 100 * 5 = 500.
+Charges of next 20 units :- 20 * 10 = 200.
 Total Charges => 80 + 150 + 500 + 200 = 930.
 
 
