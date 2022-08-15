@@ -14,7 +14,7 @@ Input
 The first and the only line of the input contains the values stored in a,b,c
 
 Output
-Find the second largest value out of a,b,c
+Find the second largest value out of a,b,c.
 
 Sample Input 1 
 
@@ -27,9 +27,9 @@ Sample Output 1
 
 Hint
 
-In the sample test case, the value stored ina = 3, b = 7, c = 5
+In the sample test case, the value stored ina = 3, b = 7, c = 5.
 
-Since, 5 is the second largest element, therefore, the output is 5
+Since, 5 is the second largest element, therefore, the output is 5.
 
 */
 
