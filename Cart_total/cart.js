@@ -5,13 +5,13 @@ Description
 
 You are given two arrays, both of given sizeN
 
-The first array represents the price of commodities present in your cart, represented by the variable nameprice
+The first array represents the price of commodities present in your cart, represented by the variable name price
 
-The second array represents the quantity of each commodity that you need, represented by the variable namequantity
+The second array represents the quantity of each commodity that you need, represented by the variable name quantity
 
 You have to find the total price of the commodities present in the cart
 
-For example, consider the value stored inN = 3, and the first array isprice = [100,20,40], and the second array isquantity = [2,1,2]
+For example, consider the value stored inN = 3, and the first array isprice = [100,20,40], and the second array is quantity = [2,1,2]
 
 Then, the required cart total will be
 
@@ -19,14 +19,14 @@ Cart Total = (100 * 2 + 20 * 1 + 40 * 2) = (200 + 20 + 80) = 300
 Therefore, the required output will be 300
 
 Input
-The first line of the input contains the value stored inN
+The first line of the input contains the value stored in N
 
-The next line containsNspace separated integers denoting the values stored in thepricearray
+The next line containsNspace separated integers denoting the values stored in the price array
 
-The next line containsNspace separated integers denoting the values stored inquantityarray
+The next line containsNspace separated integers denoting the values stored in quantity array
 
 Output
-Print the total cart value, as shown in the problem statement
+Print the total cart value, as shown in the problem statement.
 
 Sample Input 1 
 
