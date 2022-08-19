@@ -14,7 +14,7 @@ Input
 The first and the only line of the input contains the value stored in num
 
 Output
-If the value stored innum, is a prime number printYes, else print No
+If the value stored innum, is a prime number printYes, else print No.
 
 Sample Input 1 
 13
