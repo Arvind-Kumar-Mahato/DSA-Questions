@@ -5,9 +5,10 @@ Description
 Sandhya is running up a staircase with N steps, and can hop(jump) either 1 step, 2 steps or 3 steps at a time. You have to count, how many possible ways Sandhya can run up to the stairs.
 
 Input
+
 input Format
 
-Input contains integer N that is number of steps
+Input contains integer N that is number of steps.
 
 Constraints
 
