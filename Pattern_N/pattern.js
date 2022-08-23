@@ -14,7 +14,7 @@ Input
 The first and the only line of the input contains the value stored in the variable N
 
 Output
-Print all the numbers in the range from [1, N*N], as shown in the problem statement, such that there areNnumbers on each line
+Print all the numbers in the range from [1, N*N], as shown in the problem statement, such that there are N numbers on each line
 
 Sample Input 1 
 4
@@ -26,7 +26,7 @@ Sample Output 1
 13 14 15 16 
 
 Hint
-In the sample test case, the value stored atN = 4. Therefore, all the values in the range from[1,16]need to be printed.
+In the sample test case, the value stored atN = 4. Therefore, all the values in the range from [1,16] need to be printed.
 
 Also, there should be 4 elements on each line. Therefore, the output becomes
 
