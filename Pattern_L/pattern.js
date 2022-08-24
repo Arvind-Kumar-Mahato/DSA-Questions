@@ -2,7 +2,7 @@
 Pattern of L
 
 Description
-You are given a number stored in a variable with the nameN
+You are given a number stored in a variable with the name N
 
 Print the pattern as shown below, according to the value stored in N
 
