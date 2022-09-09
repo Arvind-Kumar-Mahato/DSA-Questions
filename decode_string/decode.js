@@ -5,14 +5,14 @@ Description
 
 You are given a string of size N. You have to convert the string into its cipher form.
 
-For example, the cipher form of a string "aabccd", will be "a2b1c2d1". The new generated string contains the characters, and the count of their occurrences in a consecutive manner.
+For example, the cipher form of a string "aabccd",  will be "a2b1c2d1". The new generated string contains the characters, and the count of their occurrences in a consecutive manner.
 
 Note: The string contains only lower-case characters.
 
 Input
 The first line of the input contains T, the number of test cases.
 
-The first line of each test case contains N, the length of the string.
+The first line of each test case contains N, the length of the  string.
 
 The next line contains the string, for which the cipher string is to be generated.
 
