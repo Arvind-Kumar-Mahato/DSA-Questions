@@ -17,14 +17,14 @@ prove to I-chan that he is smarter than Shinchan, so he tries
       Input
       The first line contains N, the size of the array.
        Next line contains N space separated integers, indicating the
-      values in the array.
+         values in the array.
 
         Next line contains K, the value I-chan gave to search.
 
       Constraints:
       1 <= N <= 10^4
    -10^4<= array[i] <= 10^4
- nums contains distinct values sorted in ascending order.
+  nums contains distinct values sorted in ascending order.
 -10^4<= K <= 10^4
 
 Output 
