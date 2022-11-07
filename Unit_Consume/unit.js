@@ -20,7 +20,6 @@ Constraints:
 
 Output
 Print number of units consumed.
-
 Sample Input 1 
 930
 
