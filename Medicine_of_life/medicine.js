@@ -2,6 +2,7 @@
 Medicine of Life
 
 Description
+
 The vaccine for corona virus is in short supply, therefore, the Scientists at the University of Masai, came up with certain number of chemical compounds which on combining can make an alternative medicine for Corona Virus
 
 But, all these chemical compounds have different reactive power, and for the vaccine to be effective, two chemical compounds need to be mixed such that the sum of total reactivity of the two compounds is equal toK.
@@ -14,7 +15,7 @@ The first line of the input containsT, the number of test cases.
 The first line of each test case, containsN, the number of compounds, andKis the required reactivity
 
 The next line containsNspace separated integers, indicating the reactivity of individual compounds
-1 <= T <= 10
+1  <=  T <= 10
 
 2 <= N <= 1000, 2 <= B <= 3*10^5
 
