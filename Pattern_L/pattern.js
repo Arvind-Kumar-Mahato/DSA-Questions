@@ -32,7 +32,8 @@ Sample Output 1
 * * * *
 
 Hint
-In the sample test case, the value stored inN = 4. Therefore, the required pattern will be as shown below
+In the sample test  case,  the value stored inN = 4. Therefore, the required pattern 
+will be as shown below
 
 *
 *
